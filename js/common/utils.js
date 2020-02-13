@@ -26,6 +26,10 @@ _Hasync.push(['Histats.track_hits', '']);
     hs.src = ('//s10.histats.com/js15_as.js');
     (document.getElementsByTagName('head')[0]).appendChild(hs);
 })();
+/*****************************************remind remeber**************************************************** */
+function remindRemeber() {
+    document.write('请记住本站域名：' + window.location.host.toLocaleUpperCase().replace(/[https*:\\]*WWW./,""));
+}
 /*****************************************UA判断**************************************************** */
 var ua_type = 'android';
 var browser = {
