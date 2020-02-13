@@ -1531,20 +1531,7 @@ nav.mobile {
                         color: #F6A623
                     }
 
-                        .path_bar .word_wrapper .menu_container .menu_items .type.apen:before {
-                            content: '';
-                            width: 26px;
-                            height: 25px;
-                            background-image: url(/style-custom/img/2x_new.png);
-                            background-position: center;
-                            background-repeat: no-repeat;
-                            background-size: cover;
-                            position: absolute;
-                            top: 0px;
-                            left: -5px;
-                            color: #ff3b3b;
-                            animation: 1s scale infinite
-                        }
+
                         @media  screen and (min-width:0px)  and (max-width:767px)  {
                             .path_bar .word_wrapper .menu_container .menu_items .type.apen:before {
                                 width: 23px;
@@ -1566,20 +1553,7 @@ nav.mobile {
                         color: #F6A623
                     }
 
-                        .path_bar .word_wrapper .menu_container .menu_items .type.hot:before {
-                            content: '';
-                            width: 26px;
-                            height: 25px;
-                            background-image: url(/style-custom/img/2x_hot.png);
-                            background-position: center;
-                            background-repeat: no-repeat;
-                            background-size: cover;
-                            position: absolute;
-                            top: 0px;
-                            left: -5px;
-                            color: #ff3b3b;
-                            animation: 1s scale infinite
-                        }
+
                         @media  screen and (min-width:0px)  and (max-width:767px)  {
                             .path_bar .word_wrapper .menu_container .menu_items .type.hot:before {
                                 width: 23px;
@@ -7472,20 +7446,7 @@ header .header-container .remenber .remenber_domain {
     }
 }
 
-header .header-container .hot:before {
-    content: '';
-    width: 28px;
-    height: 27px;
-    background-image: url(/style-custom/img/2x_hot.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: absolute;
-    top: -10px;
-    left: 14px;
-    color: #ff3b3b;
-    animation: 1s scale infinite;
-}
+
 
 
 header .header-container .phone_down {
@@ -7497,20 +7458,7 @@ header .header-container .phone_down {
     
 }
 
-    header .header-container .phone_down:before {
-        content: '';
-        width: 28px;
-        height: 27px;
-        background-image: url(/style-custom/img/2x_hot.png);
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        position: absolute;
-        top: -10px;
-        left: 14px;
-        color: #ff3b3b;
-        animation: 1s scale infinite;
-    }
+
 
     header .header-container .phone_down .down-button {
         display: inline-block;
