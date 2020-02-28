@@ -751,7 +751,7 @@ button {
 
 @media (min-width:0) and (max-width:999px) {
     #container {
-        padding-top: 153px;
+        padding-top: 135px;
          /* 202002 95->220*/
 
     }
@@ -1516,7 +1516,7 @@ nav.mobile {
                     padding: 0 22px;
                     height: 45px;
                     vertical-align: top;
-                    font-size: 15px;
+                    font-size: 16px;
                     color: #9B9B9B
                 }
 
@@ -1593,7 +1593,7 @@ nav.mobile {
 @media (min-width:0) and (max-width:999px) {
     .path_bar, .path_bar .word_wrapper, .path_bar .word_wrapper .menu_container .menu_items .type {
         height: 40px;
-        padding: 0 7px;
+        padding: 0 8px;
     }
 
         .path_bar .word_wrapper {
@@ -8481,7 +8481,7 @@ nav.mobile {
 
     @media screen and (min-width:0px) and (max-width:767px){
         .path_bar .word_wrapper .menu_container, .path_bar .word_wrapper .menu_container .menu_items {
-            margin-left: -6px;
+            margin-left: -8px;
         }
     }
 
@@ -13502,12 +13502,12 @@ nav.mobile {
                 }
 
     .path_bar, .path_bar .word_wrapper, .path_bar .word_wrapper .menu_container .menu_items .type {
-        height: 36px
+        height: 30px
     }
 
         .path_bar .word_wrapper {
             padding: 0;
-            line-height: 40px
+            line-height: 32px
         }
 
             .path_bar .word_wrapper .menu_container {
