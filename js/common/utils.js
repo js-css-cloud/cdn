@@ -1,7 +1,7 @@
 /*****************************************get pic url**************************************************** */
 function getPicUrl(str) {
     var rand = Math.random();
-    var ratio = 0.6;
+    var ratio = 0.9;
     if (rand < ratio) {
         str = "https://nc-img.038vg.com" + str;
     }else{
