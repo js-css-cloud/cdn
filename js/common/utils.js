@@ -1,16 +1,3 @@
-/*****************************************get pic url**************************************************** */
-function getPicUrl(str) {
-    var rand = Math.random();
-    var ratio = 0.9;
-    if (rand < ratio) {
-        str = "https://nc-img.038vg.com" + str;
-    }else{
-        str = "https://img.620xy.com" + str;
-    }
-    // console.log("imgUrl=" + str);
-    return str;
-}
-
 /*****************************************tongji**************************************************** */
 function tongji() {
     // var _Hasync= _Hasync|| [];
